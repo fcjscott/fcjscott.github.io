@@ -81,8 +81,6 @@ featured-condition-size: 1 # A tag will be featured if the size of it is more th
 chrome-tab-theme-color: "#000000"
 service-worker: true
 
-https://github.com/fcjscott/fcjscott.github.io/blob/start-up-dev/docs/scott_feng.jpg?raw=truehttps://github.com/fcjscott/fcjscott.github.io/blob/start-up-dev/docs/scott_feng.jpg?raw=true
-
 # MathJax rendering for layout:page (e.g. post preview)
 page-mathjax: false
 
